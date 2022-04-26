@@ -44,7 +44,8 @@
       "script": 
          { 
            "https://raw.githubusercontent.com/wzfree/ksjsb/main/ksjsb.js",
-           "https://raw.githubusercontent.com/wzfree/ksjsb/main/ksjsb_100.js"
+           "https://raw.githubusercontent.com/wzfree/ksjsb/main/ksjsb_100.js",
+           "https://raw.githubusercontent.com/wzfree/ksjsb/main/ks_fruit.js"
          }
     }
   ]
