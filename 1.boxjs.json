@@ -18,21 +18,21 @@
       "settings": [
         {
           "id": "ksjsbCookie",
-          "name": "CK列表",
+          "name": "极速版cookie",
           "val": "",
           "type": "textarea",
           "autoGrow": true,
           "rows": 8,
-          "desc": "CK 列表 "
+          "desc": "kuaishou.api_st=xxxxxxxxxxxx;"
         },
         {
           "id": "ksCookie",
-          "name": "CK列表",
+          "name": "普通版cookie",
           "val": "",
           "type": "textarea",
           "autoGrow": true,
           "rows": 8,
-          "desc": "CK 列表 "
+          "desc": "kuaishou.api_st=xxxxxxxxxxxx; did=yyyyyyyyyyy;"
         }
       ],
       "icons": [
