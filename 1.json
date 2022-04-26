@@ -1,0 +1,35 @@
+{
+  "id": "com.douding31",
+  "name": "脚本订阅",
+  "author": "@douding31",
+  "icon": "https://portrait.gitee.com/uploads/avatars/user/2721/8163312_passerby-b_1605061011.png",
+  "repo": "https://gitHub.com/douding31/test/1.json",
+  "apps": [
+    {
+      "id": "ksjsb",
+      "name": "快手任务",
+      "keys": [
+        "ksjsbCookie"
+      ],
+      "descs_html": [
+        "多个用英文逗号(,)分开"
+      ],
+      "settings": [
+        {
+          "id": "ksjsbCookie",
+          "name": "CK列表",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 8,
+          "desc": "CK 列表 "
+        }
+      ],
+      "icons": [
+        "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png",
+        "https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png"
+      ],
+      "author": "@douding31",
+      "repo": "https://gitee.com/passerby-b/javascript/raw/master/JD/passerby-b.boxjs.json",
+      "script": "https://raw.githubusercontent.com/wzfree/ksjsb/main/ksjsb.js"
+    }
