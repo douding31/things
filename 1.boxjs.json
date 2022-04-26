@@ -3,7 +3,7 @@
   "name": "脚本订阅",
   "author": "@douding31",
   "icon": "https://portrait.gitee.com/uploads/avatars/user/2721/8163312_passerby-b_1605061011.png",
-  "repo": "https://raw.githubusercontent.com/douding31/things/master/1.boxjs.json",
+  "repo": "https://github.com/douding31/things",
   "apps": [
     {
       "id": "ks",
