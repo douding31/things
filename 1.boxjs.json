@@ -42,11 +42,6 @@
       "author": "@douding31",
       "repo": "https://raw.githubusercontent.com/douding31/things/master/1.boxjs.json",
       "script": 
-         { 
-           "https://raw.githubusercontent.com/wzfree/ksjsb/main/ksjsb.js",
-           "https://raw.githubusercontent.com/wzfree/ksjsb/main/ksjsb_100.js",
-           "https://raw.githubusercontent.com/wzfree/ksjsb/main/ks_fruit.js"
-         }
     }
   ]
 }
