@@ -6,10 +6,11 @@
   "repo": "https://raw.githubusercontent.com/douding31/things/master/1.boxjs.json",
   "apps": [
     {
-      "id": "ksjsb",
+      "id": "ks",
       "name": "快手任务",
       "keys": [
-        "ksjsbCookie"
+        "ksjsbCookie",
+        "ksCookie"
       ],
       "descs_html": [
         "多个用英文逗号(,)分开"
@@ -17,6 +18,13 @@
       "settings": [
         {
           "id": "ksjsbCookie",
+          "name": "CK列表",
+          "val": "",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 8,
+          "desc": "CK 列表 ",
+          "id": "ksCookie",
           "name": "CK列表",
           "val": "",
           "type": "textarea",
